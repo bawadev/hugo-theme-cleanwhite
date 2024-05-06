@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.png"
+  header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "Zhaohuabing's Blog | Zhaohuabing Blog"
   description = "Zhao Huabing, Programmer, Open Source Enthusiast, Life Adventurer | This is Zhao Huabing's blog, exploring a bigger world with you."
   keyword = "Zhao Huabing, zhaohuabing, Zhaohuabing, Zhao Huabing's Blog, Blog, Personal Website, Internet, Web, Cloud Native, PaaS, Istio, Kubernetes, Microservice"
