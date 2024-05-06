@@ -39,6 +39,12 @@
 {{ block "main" . }}
 {{ end }}
 
-{{ partial "footer.html" . }}
+
+<div class="visible-xs-block hidden-sm hidden-md hidden-lg">
+    {{ partial "footer_abuot_me.html" . }}
+  </div>
+  
+  {{ partial "footer.html" . }}
+
 </body>
 </html>
