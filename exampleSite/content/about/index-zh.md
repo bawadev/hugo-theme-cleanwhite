@@ -11,7 +11,6 @@ Hi，我是赵化冰，服务网格技术布道者及实践者，[腾讯云](htt
 |[云原生数据中心网络](https://zhaohuabing.com/post/2021-08-27-cloud-native-data-center)|翻译书籍|中国电力出版社|[购买链接](https://item.jd.com/12929975.html)|
 |[Istio 运维实战](https://istio-operation-bible.aeraki.net)|电子书籍||[在线阅读](https://istio-operation-bible.aeraki.net)|
 
-
 ## 演讲分享 (部分)
 |年份          |城市        |会议         | 分享主题    |讲稿         |视频       |
 | ----------- |----------- |----------- |----------- |----------- |----------- |
